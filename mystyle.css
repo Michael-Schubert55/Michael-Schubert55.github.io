@@ -1,0 +1,29 @@
+h1{
+	font-family:Verdana, Sans-Serif;
+	font-weight: bold;
+}
+h2, h3, h4, h5, h6{
+	font-family:Verdana, Sans-Serif;
+	font-weight: bold;
+}
+s
+p{
+	font-family:Georgia, Sans-Serif;
+}
+.bodyDark{
+	background-color:LightCoral;
+}
+.bodyLight{
+	font-family:Georgia, Sans-Serif;
+	background-color:PeachPuff;
+}
+.rights{
+	font-family:Georgia, Sans-Serif;
+	font-size: 9px;
+}
+
+ul.list{
+	font-family:Georgia, Sans-Serif;
+	background-color:Bisque;
+}
+
