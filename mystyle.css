@@ -1,6 +1,9 @@
+body{
+	background-color:MistyRose;
+}
+
 h1{
 	font-family:Verdana, Sans-Serif;
-	Color:DarkMagenta;
 	font-weight: bold;
 }
 h2, h3, h4, h5, h6{
@@ -29,3 +32,6 @@ ul.list{
 	background-color:Bisque;
 }
 
+#header{
+	Color:DarkMagenta;
+}
