@@ -1,12 +1,13 @@
 h1{
 	font-family:Verdana, Sans-Serif;
+	Color:DarkMagenta;
 	font-weight: bold;
 }
 h2, h3, h4, h5, h6{
 	font-family:Verdana, Sans-Serif;
 	font-weight: bold;
 }
-s
+
 p{
 	font-family:Georgia, Sans-Serif;
 }
@@ -20,6 +21,7 @@ p{
 .rights{
 	font-family:Georgia, Sans-Serif;
 	font-size: 9px;
+	Color:blue;
 }
 
 ul.list{
